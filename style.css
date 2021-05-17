@@ -131,3 +131,37 @@ a {
     width: 1200px;
     margin: 0 auto;
 }
+.cyka{
+    margin: 0;
+    background: linear-gradient(0deg, rgb(80, 8, 80), black); 
+}
+.photo{
+    display: inline-block;
+    width: 24%;
+    text-align: left;
+}
+.photo1{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+}
+.cetare{
+    display: inline-block;
+    width: 24%;
+    text-decoration: underline rgb(252, 55, 252);
+    text-underline-offset: 3px;
+    color: white;
+    font-weight: 100;
+}
+.odno{
+    display: inline-block;
+    width: 24%;
+    color: white;
+    text-decoration: underline rgb(252, 55, 252);
+    text-underline-offset: 3px;
+}
+
+.aaa{
+    color: violet;
+    font-weight: 100;
+}
